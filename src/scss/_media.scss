@@ -1,0 +1,17 @@
+@media (max-width: 1920px){
+  .menu{
+    min-height: 1080px;
+  }
+  .bullets__inner {
+    margin-bottom: 70px;
+  }
+}
+@media (max-width: 1366px){
+  .menu{
+    min-height: 768px;
+  }
+  .hud__items-box{
+    display: flex;
+    justify-content: space-between;
+  }
+}
